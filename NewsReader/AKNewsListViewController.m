@@ -15,7 +15,7 @@
 
 //NSString * const NEWS_URL = @"https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=78d11b972d4e44a6a8cb8f4be28ab907";
 NSString * const  NEWS_URL = @"https://newsapi.org/v2/top-headlines?country=us&apiKey=78d11b972d4e44a6a8cb8f4be28ab907";
-NSString * const NAVIGATION_TITLE= @"Breaking news";
+NSString * const NAVIGATION_TITLE= @"Top News";
 NSString * const ARTICLE_IDENTIFIER = @"articleCell";
 NSString * const DATE_FORMAT = @"yyyy-MM-dd'T'HH:mm:ss'Z'";
 NSString * const REFRESH_STRING = @"Updating News";
